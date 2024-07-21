@@ -1,0 +1,1 @@
+A machine learning scorer based on some of my music preferences, to score new playlists from music league. Example [here](https://github.com/cameronmartino/music-leauge-auto-scoring/blob/master/music-league-scorer.ipynb)
